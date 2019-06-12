@@ -1,0 +1,29 @@
+E:\Users\Chaz\Dropbox\TCP Client\TCP Client\bin\Debug\TCP Client.exe.config
+E:\Users\Chaz\Dropbox\TCP Client\TCP Client\bin\Debug\TCP Client.exe
+E:\Users\Chaz\Dropbox\TCP Client\TCP Client\bin\Debug\TCP Client.pdb
+E:\Users\Chaz\Dropbox\TCP Client\TCP Client\obj\Debug\TCP_Client.FrmColourSpam.resources
+E:\Users\Chaz\Dropbox\TCP Client\TCP Client\obj\Debug\TCP_Client.Properties.Resources.resources
+E:\Users\Chaz\Dropbox\TCP Client\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.Cache
+E:\Users\Chaz\Dropbox\TCP Client\TCP Client\obj\Debug\TCP Client.exe
+E:\Users\Chaz\Dropbox\TCP Client\TCP Client\obj\Debug\TCP Client.pdb
+C:\Users\chaz6\Dropbox\TCP Client\TCP Client\bin\Debug\TCP Client.exe.config
+C:\Users\chaz6\Dropbox\TCP Client\TCP Client\obj\Debug\TCP Client.exe
+C:\Users\chaz6\Dropbox\TCP Client\TCP Client\obj\Debug\TCP Client.pdb
+C:\Users\chaz6\Dropbox\TCP Client\TCP Client\bin\Debug\TCP Client.exe
+C:\Users\chaz6\Dropbox\TCP Client\TCP Client\bin\Debug\TCP Client.pdb
+C:\Users\chaz6\Dropbox\TCP Client\TCP Client\obj\Debug\TCP Client.csprojResolveAssemblyReference.cache
+C:\Users\chaz6\Dropbox\TCP Client\TCP Client\obj\Debug\TCP_Client.FrmColourSpam.resources
+C:\Users\chaz6\Dropbox\TCP Client\TCP Client\obj\Debug\TCP_Client.Properties.Resources.resources
+C:\Users\chaz6\Dropbox\TCP Client\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.Cache
+E:\Users\Chaz\Dropbox\TCP Client\TCP Client\obj\Debug\TCP Client.csprojResolveAssemblyReference.cache
+E:\Users\Chaz\Dropbox\TCP Client\TCP Client\obj\Debug\TCP Client.csproj.CoreCompileInputs.cache
+C:\Users\chaz6\Dropbox\TCP Client\TCP Client\obj\Debug\TCP Client.csproj.CoreCompileInputs.cache
+E:\Users\Chaz\Desktop\TCP Client\TCP Client\bin\Debug\TCP Client.exe.config
+E:\Users\Chaz\Desktop\TCP Client\TCP Client\bin\Debug\TCP Client.exe
+E:\Users\Chaz\Desktop\TCP Client\TCP Client\bin\Debug\TCP Client.pdb
+E:\Users\Chaz\Desktop\TCP Client\TCP Client\obj\Debug\TCP Client.csprojAssemblyReference.cache
+E:\Users\Chaz\Desktop\TCP Client\TCP Client\obj\Debug\TCP_Client.Properties.Resources.resources
+E:\Users\Chaz\Desktop\TCP Client\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.cache
+E:\Users\Chaz\Desktop\TCP Client\TCP Client\obj\Debug\TCP Client.csproj.CoreCompileInputs.cache
+E:\Users\Chaz\Desktop\TCP Client\TCP Client\obj\Debug\TCP Client.exe
+E:\Users\Chaz\Desktop\TCP Client\TCP Client\obj\Debug\TCP Client.pdb
